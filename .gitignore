@@ -1,3 +1,4 @@
 LangChain_Models/.env
 Langchain_Prompts/.env
+.env
 venv
